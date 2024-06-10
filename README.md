@@ -1,7 +1,7 @@
 # Author
 
 <div align="center">
-  <img src="[https://imgur.com/M8fWd01]" alt="Profile Image" width="120" height="120" style="border-radius: 50%;">
+  <img src="https://imgur.com/M8fWd01.jpeg" alt="Profile Image" width="200" height="400" style="border-radius: 100%;">
 </div>
 <div align="center">
   <p><strong>Mot Mot Oyamat</strong></p>
